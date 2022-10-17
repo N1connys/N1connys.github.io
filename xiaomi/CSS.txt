@@ -1,0 +1,279 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.picture
+{
+width: 1441px;
+height: 120px;
+}
+.picture img
+{
+    width: 1441px;
+    height: 100%;
+}
+.mi1
+{
+    width:1441px ;
+    height: 40px;
+    background: #333333;
+}
+.cen
+{
+    width: 1226px;
+    height: 100%;
+    margin: 0 auto;
+}
+.dh_left li
+{
+    float: left; 
+    line-height: 40px;
+    list-style: none;
+    font-size: 12px;
+    color: #B0B0B0;
+ 
+}
+.dh_left a
+{
+    font-size: 12px;
+    color: #B0B0B0;
+    margin: 0 7px;
+}
+.dh_right li
+{
+    list-style: none;
+    font-size: 12px;
+    color: #B0B0B0;
+    float: right;
+    line-height: 40px;
+}
+.mi1 .cen .dh_right>ul>li>a
+{
+    margin: 0 7px;
+    font-size: 12px;
+    color: #B0B0B0;
+}
+.gwc
+{
+    width: 120px;
+    height: 40px;
+    background-color: #fffefe;
+    text-align: center;
+    margin-left: 5px;
+}
+.check
+{
+    width: 100%;
+    height: 100px;
+
+}
+.check_left
+{
+    float: left;
+    width:860px;
+    height: 100px;
+}
+.check_left>ul>li
+{
+    list-style: none;
+    float: left;
+    line-height: 100px;
+}
+.cheak_left ul
+{
+    height: 100px;
+}
+.check_left a
+{
+    font-size: 16px;
+    text-decoration: none;
+    color: #333333;
+    margin: 0 8px;
+}
+.cheak_left a:hover
+{
+    color:#9b2c2c;
+}
+.check_left .logo
+{
+    margin-left: 0px;
+    margin-top: 20px;
+}
+.check_left .logo1
+{
+margin-left: 10px;
+margin-top: 5px;
+}
+.check_right
+{
+    float: right;
+    line-height: 100px;
+}
+.check_right .find
+{
+    width: 245px;
+    height: 50px;
+    border: 1px solid #e0e0e0;
+}
+.check_right .find1
+{
+    width: 52px;
+    height: 53px;
+    background-color: #F0F0F0;
+    border: 1px solid #e0e0e0;
+    position: relative;
+    left:-5px;
+    top: 1px;
+}
+.mi2
+{
+    width: 100%;
+    height: 460px;
+}
+.photo
+{
+    width: 100%;
+    height: 460px;
+    background-image: url(https://i1.mifile.cn/a4/xmad_15648327154491_VTHbl.jpg);
+    background-size: cover;
+    background-position: center center;
+    animation:15s spinx infinite;
+}
+.nav1
+{
+    width: 234px;
+    height: 460PX;
+    background-color: #5F5750;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.mi2 .cen
+{
+    position: relative;
+}
+.nav1 ul
+{
+    list-style: none;
+    margin-top: 20px;
+}
+.nav1 li
+{
+    height: 42px;
+    font-size: 14px;
+    color: #ffffff;
+    padding-left: 40px;
+    padding-top: 3px;
+
+}
+.shop
+{
+    width: 100%;
+    height:170px;
+    margin-top: 20px;
+
+
+}
+.shop .ms
+{
+    background-color: #F0F0F0;
+    width: 234px;
+    height: 170px;
+    float: left;
+}
+.shop .sp{
+    width: 316px;
+    height: 170px;
+    float: left;
+    margin-left: 14px;
+}
+.shop img{
+    width: 100%;
+    height: 170px;
+
+}
+@keyframes spinx
+{
+    0%{background-image:url(https://i1.mifile.cn/a4/xmad_15648327154491_VTHbl.jpg); }
+    25%{background-image:url(https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/053d963a35ffe0654dfc2ac3d20466ee.jpg);  }
+    50%{background-image: url(https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/50063de30b7f02f678e9da976ecb70ac.jpg?thumb=1&w=1533&h=575&f=webp&q=90);}
+    75%{background-image:url(https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cf63f6314d3e842cfc80e9a2e44e2773.jpg?thumb=1&w=1533&h=575&f=webp&q=90);}
+    100%{background-image:url(https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cf63f6314d3e842cfc80e9a2e44e2773.jpg?thumb=1&w=1533&h=575&f=webp&q=90);}
+}
+.title
+{
+    width: 1226px;
+    height: 58px;
+    font-size: 22px;
+    font-weight: 200;
+    line-height: 58px;
+    color: #333;
+    margin-top: 20px;
+}
+.phone
+{
+    height: 614px;
+    width: 100%;
+}
+.phone .it1
+{
+    float: left;
+    height: 614px;
+    width: 234px;
+  
+}
+.it1 img
+{
+    width: 100%;
+    height: 100%;
+    
+}
+.it
+{
+    float: left;
+    width: 234px;
+    height: 300px;
+    margin-left: 14px;
+    margin-bottom: 12px;
+    background-color: white;
+   
+}
+.it img
+{
+    margin: 0 auto;
+    width: 160px;
+    width: 160px;
+    display: block;
+    margin-top: 20px;
+}
+.sssp
+{
+    text-align: center;
+   
+}
+.title2
+{
+    margin-top: 26px;
+    color: #333333;
+    font-size: 14px;
+}
+.page
+{
+    font-size: 12px;
+    color: #B0B0B0;
+
+}
+.price
+{
+    color: #FF6700;
+    font-size: 14PX;
+    margin-top: 22PX;
+}
+.item .cen
+{
+    
+    width: 1226px;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #F5F5F5;
+}

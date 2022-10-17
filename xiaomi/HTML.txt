@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>mini static web</title>
+    <link rel="stylesheet" href="./mi.css">
+</head>
+<body>
+    
+    <!-- 导航栏部分 -->
+    <div class="picture">
+        <img src="https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2656295f6c067f48a04a425acf15a096.jpg?thumb=1&w=1533&h=150&f=webp&q=90" alt="">
+    </div>
+        <div class="mi1">
+            <div class="cen">
+                <div class="dh_left">
+                    <ul>
+                        <li><a href="#"></a>小米商城</li>
+                        <li><a href="#"></a>MIUIli</li>
+                        <li><a href="#"></a>LOT</li>
+                        <li><a href="#"></a>云服务</li>
+                        <li><a href="#"></a>天幸书客</li>
+                        <li><a href="#"></a>有品</li>
+                        <li><a href="#"></a>小爱</li>
+                        <li><a href="#"></a>企业团购</li>
+                        <li><a href="#"></a>资质</li>
+                        <li><a href="#"></a>协议</li>
+                        <li><a href="#"></a>下载</li>
+                        <li><a href="#"></a>智能生活</li>
+                    </ul>
+                </div>
+                <div class="dh_right">
+                    <ul>
+                        
+                        <li class="gwc"><a href="#"></a>购物车(0)</li>
+                    
+                        <li><a href="#"></a>注册</li>
+                        <li><a href="#"></a>消息通知</li>
+                        <li><a href="#"></a>登录</li>
+                    
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- 导航栏结束 -->
+        <div class="check">
+            <!-- 搜索栏 start-->
+            <div class="cen">
+                <div class="check_left">
+                    <ul>
+                        <li class="logo">
+                            <img src="..\img\Snipaste_2022-10-15_14-51-27.png" width="56px" height="56px"alt="">
+                        </li>
+                        <li class="logo1">
+                            <img src="../img/QQ图片20220827193140.jpg" width="120px" height="86px"alt="">
+                        </li>
+                    <li><a href="#"></a>xiaomi电脑</li>
+                    <li><a href="#"></a>电脑</li>
+                    <li><a href="#"></a>笔记本</li>
+                    <li><a href="#"></a>好电脑</li>
+                    <li><a href="#"></a>红米电脑</li>
+                    <li><a href="#"></a>雷军与友商</li>
+                    <li><a href="#"></a>xiaomi电脑</li>
+                    <li><a href="#"></a>电脑</li>
+                    </ul>
+                </div>
+                <div class="check_right">
+                    <input type="text" class="find" name="" id="" value=" ">
+                    <input type="submit" class="find1" name="" id="" value="搜索 ">
+                </div>
+            </div>
+        </div>
+        <div class="mi2">
+            <div class="cen">
+                <div class="photo">
+                </div>
+                <div class="nav1">
+                    <ul>
+                        <li><a href="#"></a>手机</li>
+                        <li><a href="#"></a>电视</li>
+                        <li><a href="#"></a>笔记本</li>
+                        <li><a href="#"></a>出行电器</li>
+                        <li><a href="#"></a>耳机音箱</li>
+                        <li><a href="#"></a>路由器</li>
+                        <li><a href="#"></a>电源配件</li>
+                        <li><a href="#"></a>健康儿童</li>
+                        <li><a href="#"></a>生活箱包</li>
+                        <li><a href="#"></a>家电</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="shop">
+            <div class="cen">
+                <div class="ms">
+                  <img src=".\img\Snipaste_2022-10-15_14-44-13.png" alt="">
+                </div>
+                <div class="sp">
+                    <img src="https://i1.mifile.cn/a4/xmad_15632000838536_bfVMh.jpg" alt="">
+                </div>
+                <div class="sp">
+                <img src="https://i1.mifile.cn/a4/xmad_15604776623629_bRHhl.jpg" alt="">
+                </div>
+                <div class="sp">
+                    <img src="https://i1.mifile.cn/a4/xmad_1564584687704_fIYFd.jpg" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="cen">
+            <h2 class="title">手机</h2>
+             </div>
+            
+        </div>
+      
+        <div class="item">
+            <div class="cen">
+            <div class="phone">
+                <div class="it1">
+                    <img src="https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4e00040df6b4197d0a04627bc62114e6.jpg?thumb=1&w=293&h=768&f=webp&q=90" alt="">
+                </div>
+                <div class="it">
+                <div class="sssp">
+                    <img src="https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202209261921_a1b840c267bd26bcf4dc654d52f259e5.png?thumb=1&w=250&h=250&f=webp&q=90" alt="">
+                    <p class="title2">xiaomicv2</p>                    
+                    <p class="page">仿生双眸｜氛围人像</p>
+                    <p class="price">2399元起</p>
+                </div>
+                </div>
+                <div class="it">
+                    <div class="sssp">
+                        <img src="https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202209261921_a1b840c267bd26bcf4dc654d52f259e5.png?thumb=1&w=250&h=250&f=webp&q=90" alt="">
+                        <p class="title2">xiaomicv2</p>                    
+                        <p class="page">仿生双眸｜氛围人像</p>
+                        <p class="price">2399元起</p>
+                    </div>
+                    </div>
+                    <div class="it">
+                        <div class="sssp">
+                            <img src="https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202209261921_a1b840c267bd26bcf4dc654d52f259e5.png?thumb=1&w=250&h=250&f=webp&q=90" alt="">
+                            <p class="title2">xiaomicv2</p>                    
+                            <p class="page">仿生双眸｜氛围人像</p>
+                            <p class="price">2399元起</p>
+                        </div>
+                        </div>
+                        <div class="it">
+                            <div class="sssp">
+                                <img src="https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202209261921_a1b840c267bd26bcf4dc654d52f259e5.png?thumb=1&w=250&h=250&f=webp&q=90" alt="">
+                                <p class="title2">xiaomicv2</p>                    
+                                <p class="page">仿生双眸｜氛围人像</p>
+                                <p class="price">2399元起</p>
+                            </div>
+                            </div>
+                            <div class="it">
+                                <div class="sssp">
+                                    <img src="https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202209261921_a1b840c267bd26bcf4dc654d52f259e5.png?thumb=1&w=250&h=250&f=webp&q=90" alt="">
+                                    <p class="title2">xiaomicv2</p>                    
+                                    <p class="page">仿生双眸｜氛围人像</p>
+                                    <p class="price">2399元起</p>
+                                </div>
+                                </div>
+                                <div class="it">
+                                    <div class="sssp">
+                                        <img src="https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202209261921_a1b840c267bd26bcf4dc654d52f259e5.png?thumb=1&w=250&h=250&f=webp&q=90" alt="">
+                                        <p class="title2">xiaomicv2</p>                    
+                                        <p class="page">仿生双眸｜氛围人像</p>
+                                        <p class="price">2399元起</p>
+                                    </div>
+                                    </div>
+                                    <div class="it">
+                                        <div class="sssp">
+                                            <img src="https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202209261921_a1b840c267bd26bcf4dc654d52f259e5.png?thumb=1&w=250&h=250&f=webp&q=90" alt="">
+                                            <p class="title2">xiaomicv2</p>                    
+                                            <p class="page">仿生双眸｜氛围人像</p>
+                                            <p class="price">2399元起</p>
+                                        </div>
+                                        </div>
+                                        <div class="it">
+                                            <div class="sssp">
+                                                <img src="https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202209261921_a1b840c267bd26bcf4dc654d52f259e5.png?thumb=1&w=250&h=250&f=webp&q=90" alt="">
+                                                <p class="title2">xiaomicv2</p>                    
+                                                <p class="page">仿生双眸｜氛围人像</p>
+                                                <p class="price">2399元起</p>
+                                            </div>
+                                            </div>
+            </div>
+            </div>
+        </div>
+</html>
